@@ -1,0 +1,43 @@
+.step {
+  text-align: center;
+}
+
+.step.slide {
+  text-align: left;
+}
+
+h1 {
+  font-family: "Montserrat", Arial, Helvetica, sans-serif;
+  font-size: 6rem;
+  margin-bottom: 3rem;
+}
+
+h2 {
+  font-family: "Montserrat", Arial, Helvetica, sans-serif;
+  font-size: 5rem;
+  margin-bottom: 2.5rem;
+}
+
+.subtitle {
+  font-family: "Raleway", Arial, Helvetica, sans-serif;
+  font-size: 3rem;
+  margin-bottom: 1.5rem;
+}
+
+.slide h2 {
+  font-size: 2.5rem;
+  margin-bottom: 2.5rem;
+}
+
+p {
+  font-family: "Lora", "Times New Roman", Times, serif;
+  font-size: 2rem;
+}
+
+.code-block {
+  border-radius: 5px;
+  background-color: black;
+  margin: 1rem 0;
+  box-sizing: border-box;
+  padding: 1rem;
+}
